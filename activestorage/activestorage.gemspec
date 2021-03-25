@@ -36,6 +36,6 @@ Gem::Specification.new do |s|
   s.add_dependency "activejob",     version
   s.add_dependency "activerecord",  version
 
-  s.add_dependency "marcel",    git: "https://github.com/rails/marcel.git", branch: "ruby-magic"
-  s.add_dependency "mimemagic", "~> 0.3.6"
+  # s.add_dependency "marcel",    git: "https://github.com/rails/marcel.git", branch: "ruby-magic"
+  # s.add_dependency "mimemagic", "~> 0.3.6"
 end
