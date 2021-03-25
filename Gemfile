@@ -169,3 +169,7 @@ end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw, :mswin64]
+
+gem "marcel",    git: "https://github.com/rails/marcel.git", branch: "ruby-magic"
+gem "mimemagic", "~> 0.3.6"
+
